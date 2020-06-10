@@ -14,6 +14,7 @@ This model is trained on X-Rays images, there are a total of 284 X-Rays images i
 
 ![MODEL](https://github.com/arjit3004/Detect_COVID-19_in_X-Rays_images/blob/master/model.png)
 
+
 >Confusion Matrix
 
 ![Confusion Matix](https://github.com/arjit3004/Detect_COVID-19_in_X-Rays_images/blob/master/confusion_matix.png)
